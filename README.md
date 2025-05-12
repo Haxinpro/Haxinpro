@@ -20,13 +20,13 @@ Olen intohimoinen ohjelmoija ja luova tekijä, jolla on kokemusta sekä ohjelmoi
 
 ## 🌐 Portfolio
 
-📁 [Portfolioni (Salasanasuojattu](https://43ff1657.website-bny.pages.dev/)  
+📁 [Portfolioni (Salasanasuojattu)](https://43ff1657.website-bny.pages.dev/)  
 (Sivusto tukee sekä vaaleaa että tummaa teemaa 🌗)
 
 ---
 
 ## 🔗 Muita linkkejä
-- 💼 [LinkedIn-profiili](www.linkedin.com/in/teemu-karne-646802297)
+- 💼 [LinkedIn](https://www.linkedin.com/in/teemu-karne-646802297/)
 
 ---
 
