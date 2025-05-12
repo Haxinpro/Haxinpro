@@ -21,7 +21,7 @@ Olen intohimoinen ohjelmoija ja luova tekijä, jolla on kokemusta sekä ohjelmoi
 ## 🌐 Portfolio
 
 📁 [Portfolioni (Salasanasuojattu)](https://43ff1657.website-bny.pages.dev/)  
-(Sivusto tukee sekä vaaleaa että tummaa teemaa 🌗)
+(Sivusto tukee sekä vaaleaa että tummaa teemaa 🌗)  
 (The site also supports English)
 
 ---
