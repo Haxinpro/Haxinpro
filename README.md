@@ -20,7 +20,7 @@ Olen intohimoinen ohjelmoija ja luova tekijä, jolla on kokemusta sekä ohjelmoi
 
 ## 🌐 Portfolio
 
-📁 [Portfolioni (Salasanasuojattu)](https://4f65541f.website-bny.pages.dev/)  
+📁 [Portfolioni (Salasanasuojattu)](https://website-bny.pages.dev/)  
 (Sivusto tukee sekä vaaleaa että tummaa teemaa 🌗)  
 (The site also supports English)
 
