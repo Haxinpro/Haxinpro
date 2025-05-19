@@ -21,9 +21,12 @@ Olen intohimoinen ohjelmoija ja luova tekijä, jolla on kokemusta sekä ohjelmoi
 ## 🌐 Portfolio
 
 📁 [Portfolioni (Salasanasuojattu)](https://website-bny.pages.dev/)
-Mikäli olet kiinnostunut, ole rohkeasti yhteydessä!
+Mikäli olet kiinnostunut, ole rohkeasti yhteydessä! 
 (Sivusto tukee sekä vaaleaa että tummaa teemaa 🌗)  
 (The site also supports English)
+
+Miksi sivu on salasanasuojattu?
+Tietoturva on nykypäivänä hyvin tärkeää ja omia tietoja on hyvä suojata, jotta niitä ei voitaisi hyödyntää mm. haitantekoon. 
 
 ---
 
