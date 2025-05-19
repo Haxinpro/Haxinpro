@@ -20,7 +20,8 @@ Olen intohimoinen ohjelmoija ja luova tekijä, jolla on kokemusta sekä ohjelmoi
 
 ## 🌐 Portfolio
 
-📁 [Portfolioni (Salasanasuojattu)](https://website-bny.pages.dev/)  
+📁 [Portfolioni (Salasanasuojattu)](https://website-bny.pages.dev/)
+Mikäli olet kiinnostunut, ole rohkeasti yhteydessä!
 (Sivusto tukee sekä vaaleaa että tummaa teemaa 🌗)  
 (The site also supports English)
 
@@ -28,7 +29,37 @@ Olen intohimoinen ohjelmoija ja luova tekijä, jolla on kokemusta sekä ohjelmoi
 
 ## 🔗 Muita linkkejä
 - 💼 [LinkedIn](https://www.linkedin.com/in/teemu-karne-646802297/)
+---
+
+## Viimeisimmät projektit
+
+### 🎮 Projekti 1: Web portfolio
+![Projekti 1](kuvat/projekti1.png)
+HTML:llä, CSS:llä ja JavaScriptillä toteutettu web portfolioni
+
+🔗 Linkin portfolioon löydät ylhäältä.
 
 ---
+
+### 🕹️ Projekti 2: Kirjasuosittelija
+![Projekti 2](kuvat/projekti2.png)
+Razor page rakennettu C#, HTML:llä, CSS:llä ja JavaScriptillä toteutettu kirjasuosittelija.
+Sisältää Google book Rest API ja SQL tietokantaa.
+
+🔗 [Katso koodi GitHubissa](https://github.com/kayttajanimi/projekti2)
+
+---
+
+### 🧪 Projekti 3: Flipping Birds - Unity peli
+![Projekti 3](kuvat/projekti3.png)
+Flipping Birds on Finnish College Game Jam on viikossa luotu peli, joka muistuttaa flappy Birdsiä.
+Toteutettu Unity pelimoottorilla C# kielellä.
+
+🔗 [Katso tapahtuma](https://itch.io/jam/finnish-college-jam-7)
+🔗 [Lataa peli](https://haxinpro.itch.io/flipping-birds)
+
+---
+
+
 
 Kiitos, että vierailit profiilissani! ✨  
