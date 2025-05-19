@@ -34,7 +34,7 @@ Mikäli olet kiinnostunut, ole rohkeasti yhteydessä!
 ## Viimeisimmät projektit
 
 ### 🎮 Projekti 1: Web portfolio
-![Projekti 1](https://raw.githubusercontent.com/Haxinpro/Public/main/projekti1.png)
+![Projekti 1](https://github.com/Haxinpro/Public/blob/main/projekti1.PNG)
 HTML:llä, CSS:llä ja JavaScriptillä toteutettu web portfolioni
 
 🔗 Linkin portfolioon löydät ylhäältä.
@@ -42,7 +42,7 @@ HTML:llä, CSS:llä ja JavaScriptillä toteutettu web portfolioni
 ---
 
 ### 🕹️ Projekti 2: Kirjasuosittelija
-![Projekti 2](kuvat/projekti2.png)
+![Projekti 2]((https://github.com/Haxinpro/Public/blob/main/projekti2.PNG))
 Razor page rakennettu C#, HTML:llä, CSS:llä ja JavaScriptillä toteutettu kirjasuosittelija.
 Sisältää Google book Rest API ja SQL tietokantaa.
 
@@ -51,7 +51,7 @@ Sisältää Google book Rest API ja SQL tietokantaa.
 ---
 
 ### 🧪 Projekti 3: Flipping Birds - Unity peli
-![Projekti 3](kuvat/projekti3.png)
+![Projekti 3](https://github.com/Haxinpro/Public/blob/main/projekti3.PNG)
 Flipping Birds on Finnish College Game Jam on viikossa luotu peli, joka muistuttaa flappy Birdsiä.
 Toteutettu Unity pelimoottorilla C# kielellä.
 
