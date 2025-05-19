@@ -42,7 +42,7 @@ HTML:llä, CSS:llä ja JavaScriptillä toteutettu web portfolioni
 ---
 
 ### 🕹️ Projekti 2: Kirjasuosittelija
-![Projekti 2]((https://github.com/Haxinpro/Public/blob/main/projekti2.PNG))
+![Projekti 2](https://github.com/Haxinpro/Public/blob/main/projekti2.PNG)
 Razor page rakennettu C#, HTML:llä, CSS:llä ja JavaScriptillä toteutettu kirjasuosittelija.
 Sisältää Google book Rest API ja SQL tietokantaa.
 
