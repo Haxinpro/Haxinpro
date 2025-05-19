@@ -27,6 +27,7 @@ Mikäli olet kiinnostunut, ole rohkeasti yhteydessä!
 (The site also supports English) 
 
 Miksi sivu on salasanasuojattu?
+
 Tietoturva on nykypäivänä hyvin tärkeää ja omia tietoja on hyvä suojata, jotta niitä ei voitaisi hyödyntää mm. haitantekoon. 
 
 ---
