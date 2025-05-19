@@ -34,7 +34,7 @@ Mikäli olet kiinnostunut, ole rohkeasti yhteydessä!
 ## Viimeisimmät projektit
 
 ### 🎮 Projekti 1: Web portfolio
-![Projekti 1](kuvat/projekti1.png)
+![Projekti 1]((https://raw.githubusercontent.com/Haxinpro/kuvat/projekti1.png))
 HTML:llä, CSS:llä ja JavaScriptillä toteutettu web portfolioni
 
 🔗 Linkin portfolioon löydät ylhäältä.
