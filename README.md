@@ -40,7 +40,8 @@ Tietoturva on nykypäivänä hyvin tärkeää ja omia tietoja on hyvä suojata, 
 
 ### 🎮 Projekti 1: Web portfolio
 ![Projekti 1](https://github.com/Haxinpro/Public/blob/main/projekti1.PNG)
-HTML:llä, CSS:llä ja JavaScriptillä toteutettu web portfolioni
+Portfolio sivuni on nyt päivitetty React Vite:llä
+(Vanha portfolio HTML + CSS + JS)
 
 🔗 Linkin portfolioon löydät ylhäältä.
 
