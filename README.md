@@ -1,71 +1,93 @@
-# Hei! 👋
+# Teemu Karne
 
-Olen intohimoinen ohjelmoija ja luova tekijä, jolla on kokemusta sekä ohjelmoinnista että 3D-animaatiosta.
----
+## Suomeksi
 
-## 🧰 Taitoni
+Olen ohjelmistokehittäjä, joka keskittyy React/Vite-käyttöliittymiin, käytännönläheisiin julkaisupolkuihin ja ylläpidettävään projektirakenteeseen. Työskentelen pääasiassa Debian/Linux-ympäristössä ja käytän Dockeria, Cloudflarea, Bunny.net sekä AI-avusteisia työkaluja osana kehitystyötä.
 
-### 💻 Ohjelmointi ja web
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+Käytän esimerkiksi Codexia ja Claudea toteutuksen ja tarkistuksen tukena. Pidän kuitenkin lopulliset päätökset, testauksen ja koodin laadun omalla vastuullani.
 
-### 🎨 3D & Animaatio
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
-- 🎞️ Animaatioiden luonti
-- 🦴 Luurankojen (rigging) rakentaminen ja painotus
+### Tämänhetkinen painopiste
 
----
+- React/Vite-frontend-kehitys
+- Julkisten verkkosivujen julkaisu ja CDN-työnkulut
+- Docker-pohjainen paikallinen testaus ja julkaisu
+- SQLite-pohjaiset projektit ja API-integraatiot
+- Käyttöliittymien viimeistely, saavutettavuus ja responsiivisuus
 
-## 🌐 Portfolio
+### Pääprojekti
 
-📁 [Portfolioni (Salasanasuojattu)](https://website-bny.pages.dev/)
-Mikäli olet kiinnostunut, ole rohkeasti yhteydessä! 
+#### GameDexia
 
-(Sivusto tukee sekä vaaleaa että tummaa teemaa 🌗)  
-(The site also supports English) 
+[![GameDexia homepage](https://raw.githubusercontent.com/Haxinpro/Public/main/gamedexia-homepage.png)](https://www.gamedexia.com/)
 
-Miksi sivu on salasanasuojattu?
+GameDexia on julkinen pelikatalogi, jossa voi hakea ja selata pelejä, tarkistaa julkaisutietoja ja suodattaa sisältöä.
 
-Tietoturva on nykypäivänä hyvin tärkeää ja omia tietoja on hyvä suojata, jotta niitä ei voitaisi hyödyntää mm. haitantekoon. 
+Olen työskennellyt projektissa erityisesti julkisen sivuston, hakukokemuksen, mediasisällön, suorituskyvyn ja julkaisuympäristön parissa. Mediaa palvellaan Bunny Storage/CDN:n kautta, ja Cloudflare ylläpitää minun web portfolioni.
 
----
+- Sivusto: [gamedexia.com](https://www.gamedexia.com/)
+- Portfolio: [website-bny.pages.dev](https://website-bny.pages.dev/)
 
-## 🔗 Muita linkkejä
-- 💼 [LinkedIn](https://www.linkedin.com/in/teemu-karne-646802297/)
----
+### Osaaminen
 
-## Viimeisimmät projektit
+**Frontend:** React, JavaScript, HTML, CSS, responsiiviset käyttöliittymät  
+**Backend ja data:** Node.js, SQLite, API-integraatiot  
+**Julkaisu:** Docker, Cloudflare Pages, Bunny.net, CDN-asetukset  
+**Työkalut:** Git, Linux/Debian, Codex, Claude, ComfyUI  
+**Kokeilut:** Blender, riggaus/animaatio, pienet peliprojektit
 
-### 🎮 Projekti 1: Web portfolio
-![Projekti 1](https://github.com/Haxinpro/Public/blob/main/projekti4.png)
-Portfolio sivuni on nyt päivitetty React Vite:llä
-(Vanha portfolio HTML + CSS + JS)
+### Pienempiä projekteja
 
-🔗 Linkin portfolioon löydät ylhäältä.
+- [Flipping Birds](https://haxinpro.itch.io/flipping-birds) - Finnish College Game Jam -projekti
+- [Finnish College Game Jam 7](https://itch.io/jam/finnish-college-jam-7)
+- [C# miniprojektit](https://github.com/Haxinpro/Projektini)
 
----
+### Linkit
 
-### 🕹️ Projekti 2: Kirjasuosittelija
-![Projekti 2](https://github.com/Haxinpro/Public/blob/main/projekti2.PNG)
-Razor page rakennettu C#, HTML:llä, CSS:llä ja JavaScriptillä toteutettu kirjasuosittelija.
-Sisältää Google book Rest API ja SQL tietokantaa.
-
-🔗 [Katso koodi GitHubissa](https://github.com/kayttajanimi/projekti2)
+- [LinkedIn](https://www.linkedin.com/in/teemu-karne-646802297/)
 
 ---
 
-### 🧪 Projekti 3: Flipping Birds - Unity peli
-![Projekti 3](https://github.com/Haxinpro/Public/blob/main/projekti3.PNG)
-Flipping Birds on Finnish College Game Jam on viikossa luotu peli, joka muistuttaa flappy Birdsiä.
-Toteutettu Unity pelimoottorilla C# kielellä.
+## English
 
-🔗 [Katso tapahtuma](https://itch.io/jam/finnish-college-jam-7)
-🔗 [Lataa peli](https://haxinpro.itch.io/flipping-birds)
+I am a software developer focused on React/Vite interfaces, practical deployment workflows, and maintainable project structure. I mainly work in a Debian/Linux environment and use Docker, Cloudflare, Bunny.net, and AI-assisted tooling as part of my development process.
 
----
+I use tools such as Codex and Claude to support implementation and review, while keeping the final decisions, testing, and code quality under my own responsibility.
 
+### Current focus
 
+- React/Vite frontend development
+- Public web deployments and CDN workflows
+- Docker-based local testing and release flows
+- SQLite-backed projects and API integration
+- UI polish, accessibility, and responsive layouts
 
-Kiitos, että vierailit profiilissani! ✨  
+### Featured project
+
+#### GameDexia
+
+[![GameDexia homepage](https://raw.githubusercontent.com/Haxinpro/Public/main/gamedexia-homepage.png)](https://www.gamedexia.com/)
+
+GameDexia is a public game catalog for searching and browsing games, checking release information, and filtering content.
+
+My work has focused on the public website, search experience, media handling, performance, and deployment flow. Media is served through Bunny Storage/CDN, while Cloudflare maintains my web portfolio.
+
+- Live site: [gamedexia.com](https://www.gamedexia.com/)
+- Portfolio: [website-bny.pages.dev](https://website-bny.pages.dev/)
+
+### Skills
+
+**Frontend:** React, JavaScript, HTML, CSS, responsive UI work  
+**Backend and data:** Node.js, SQLite, API integration  
+**Deployment:** Docker, Cloudflare Pages, Bunny.net, CDN configuration  
+**Tools:** Git, Linux/Debian, Codex, Claude, ComfyUI  
+**Experiments:** Blender, rigging/animation, small game projects
+
+### Smaller projects
+
+- [Flipping Birds](https://haxinpro.itch.io/flipping-birds) - Finnish College Game Jam project
+- [Finnish College Game Jam 7](https://itch.io/jam/finnish-college-jam-7)
+- [C# miniprojects](https://github.com/Haxinpro/Projektini)
+
+### Links
+
+- [LinkedIn](https://www.linkedin.com/in/teemu-karne-646802297/)
