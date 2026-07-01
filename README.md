@@ -43,7 +43,7 @@ Olen työskennellyt projektissa erityisesti julkisen sivuston, hakukokemuksen, m
 
 ### Linkit
 
-- [LinkedIn](https://www.linkedin.com/in/teemu-karne-646802297/)
+- [LinkedIn](https://www.linkedin.com/in/teemu-karne)
 
 ---
 
@@ -90,4 +90,4 @@ My work has focused on the public website, search experience, media handling, pe
 
 ### Links
 
-- [LinkedIn](https://www.linkedin.com/in/teemu-karne-646802297/)
+- [LinkedIn](https://www.linkedin.com/in/teemu-karne)
