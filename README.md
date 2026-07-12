@@ -2,9 +2,9 @@
 
 ## Suomeksi
 
-Olen ohjelmistokehittäjä, joka keskittyy React/Vite-käyttöliittymiin, käytännönläheisiin julkaisupolkuihin ja ylläpidettävään projektirakenteeseen. Työskentelen pääasiassa Debian/Linux-ympäristössä ja käytän Dockeria, Cloudflarea, Bunny.net sekä AI-avusteisia työkaluja osana kehitystyötä.
+Olen ohjelmistokehittäjä, joka keskittyy React/Vite-käyttöliittymiin, käytännönläheisiin julkaisuihin ja ylläpidettävään projektirakenteeseen. Työskentelen pääasiassa Debian/Linux-ympäristössä ja hyödynnän Dockeria, Cloudflare, Bunny.net sekä AI-avusteisia työkaluja osana kehitystyötä.
 
-Käytän esimerkiksi Codexia ja Claudea toteutuksen ja tarkistuksen tukena. Pidän kuitenkin lopulliset päätökset, testauksen ja koodin laadun omalla vastuullani.
+Käytän esimerkiksi Codexia ja Claudea toteutuksen ja tarkistuksen tukena. Pidän kuitenkin lopulliset päätökset, testauksen ja koodin laadun omalla vastuulla.
 
 ### Tämänhetkinen painopiste
 
