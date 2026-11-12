@@ -8,12 +8,11 @@ Käytän Codexia ja Claude Codea apuna koodin kirjoittamisessa ja tarkistamisess
 
 ### Tämänhetkinen painopiste
 
-- React/Vite-sovellusten kehitys
-- Verkkosivujen julkaisu ja CDN-palvelut
-- Paikallinen testaus ja julkaisu Dockerilla
-- SQLite-tietokannat ja API-integraatiot
-- Käyttöliittymien viimeistely, saavutettavuus ja responsiivisuus
-- Linux-työpöytäsovellukset Rustilla
+- Verkkosovellukset Reactilla ja Vitellä
+- Linux-työpöytäsovellukset Rustilla ja Taurilla
+- Backend Node.js:llä ja SQLitella
+- Julkaisu Dockerilla, Cloudflarella ja Bunny.netillä
+- Selkeät ja saavutettavat käyttöliittymät eri näytöille
 
 ### Pääprojektit
 
@@ -84,12 +83,11 @@ I use Codex and Claude Code to help write and review code. These tools do not ma
 
 ### Current focus
 
-- React/Vite frontend development
-- Public web deployments and CDN workflows
-- Docker-based local testing and release flows
-- SQLite-backed projects and API integration
-- UI polish, accessibility, and responsive layouts
-- Rust development (Linux desktop apps)
+- Web apps with React and Vite
+- Linux desktop apps with Rust and Tauri
+- Backend with Node.js and SQLite
+- Deployment with Docker, Cloudflare, and Bunny.net
+- Clear, accessible interfaces for every screen size
 
 ### Featured projects
 
