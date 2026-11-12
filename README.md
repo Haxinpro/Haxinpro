@@ -71,7 +71,7 @@ Heiton tuloksen voi myös päättää etukäteen, esimerkiksi palvelimen tai pel
 
 ### Linkit
 
-- Portfolio (Cloudflare Pages): [website-bny.pages.dev](https://website-bny.pages.dev/)
+- Portfolio: [www.teemukarne.fi](https://www.teemukarne.fi/)
 - [LinkedIn](https://www.linkedin.com/in/teemu-karne)
 
 ---
@@ -147,5 +147,5 @@ A throw can also be steered to end on a chosen number, the way a server or game 
 
 ### Links
 
-- Portfolio (my web portfolio runs on Cloudflare Pages): [website-bny.pages.dev](https://website-bny.pages.dev/)
+- Portfolio: [www.teemukarne.fi](https://www.teemukarne.fi/)
 - [LinkedIn](https://www.linkedin.com/in/teemu-karne)
