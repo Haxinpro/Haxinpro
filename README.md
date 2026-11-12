@@ -40,7 +40,7 @@ Sonux on oma oppimisprojektini, ja idea siihen syntyi SteelSeries Sonarin käyt�
 - Lähdekoodi: [github.com/Haxinpro/Sonux](https://github.com/Haxinpro/Sonux)
 - Teknologiat: Rust, Tauri, React, TypeScript, PipeWire ja WirePlumber
 - Lisenssi: GPL-3.0
-- Testattu tällä hetkellä CachyOS-järjestelmässä
+- Käytössä tällä hetkellä CachyOS-järjestelmässä
 
 #### VTT Dice
 
@@ -116,7 +116,7 @@ I built Sonux as a personal learning project inspired by the user experience of 
 - Source: [github.com/Haxinpro/Sonux](https://github.com/Haxinpro/Sonux)
 - Technologies: Rust, Tauri, React, TypeScript, PipeWire, and WirePlumber
 - License: GPL-3.0
-- Currently tested on CachyOS
+- Currently using it on CachyOS
 
 #### VTT Dice
 
